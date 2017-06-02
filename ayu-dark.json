@@ -169,7 +169,7 @@
 		},
 		{
 			"name": "Function, Special Method, Block Level",
-			"scope": "entity.name.function, keyword.other.special-method, variable.function, meta.block-level",
+			"scope": "entity.name.function, keyword.other.special-method, variable.function, meta.block-level, meta.function-call.generic.python, support.function.go",
 			"settings": {
 				"foreground": "#FFB454"
 			}
@@ -212,7 +212,7 @@
 		},
 		{
 			"name": "Language methods",
-			"scope": "variable.language",
+			"scope": "variable.language, support.function.builtin.python, support.function.builtin.go",
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#36A3D9"
