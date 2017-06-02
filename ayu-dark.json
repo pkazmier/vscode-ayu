@@ -135,7 +135,8 @@
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"foreground": "#5C6773"
+				"foreground": "#5C6773",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -243,7 +244,8 @@
 			"name": "Attributes",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#FF7733"
+				"foreground": "#FF7733",
+				"fontStyle": "italic"
 			}
 		},
 		{
